@@ -2,7 +2,7 @@
 ## Why Do We Need a Dedicated Joel Test for Remote Work?
 The Joel Test is from 2000. Since then, remote work has been rising and changing software development.
 
-The test is a [12 questions test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) from Joel Spolsky measuring how good a software team is. The test is popular because it tackles important issues. It's a fast and easy way to understand the quality of a software team and if it's worth to join from the perspective of a candidate. 
+[The orginal test is a 12 questions test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) from Joel Spolsky measuring how good a software team is. The test is popular because it tackles important issues. It's a fast and easy way to understand the quality of a software team and if it's worth to join from the perspective of a candidate. 
 
 The goal is to create a new test which tells how good and remote-friendly a software team is. This test assumes that the working language is English.
 

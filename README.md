@@ -1,12 +1,10 @@
 # Joel Test Remote
 ## Why Do We Need a Dedicated Joel Test for Remote Work?
-The Joel Test is from 2000 and since then remote work has rised and changed software development.
+The Joel Test is from 2000. Since then, remote work has been rising and changing software development.
 
-The Joel Test is a [12 questions test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) from Joel Spolsky measuring how good a software team is. The test is popular because it tackles important issues. It's a fast and easy way to understand the quality of a software team and if it's worth to join from the perspective of a candidate. 
+The test is a [12 questions test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) from Joel Spolsky measuring how good a software team is. The test is popular because it tackles important issues. It's a fast and easy way to understand the quality of a software team and if it's worth to join from the perspective of a candidate. 
 
-The goal is to create a new test which tells how good and remote-friendly a software team is.
-
-This test assumes that the working language is English.
+The goal is to create a new test which tells how good and remote-friendly a software team is. This test assumes that the working language is English.
 
 ## Questions
 1. Do you use source control?
@@ -29,12 +27,12 @@ This test assumes that the working language is English.
 ## Comments
 'Do programmers have quiet working conditions?' and 'Do you have the best tools money can buy?' were removed from the original test because remote professionals can choose their tools and working conditions themselves.
 
-re 11: A good Internet connection is crucial. If just one particpant has a mediocre connection the entire team suffers.
+Regarding 11: A good Internet connection is crucial. If just one particpant has a mediocre connection the entire team suffers.
 
-re 12: Developing software in a team is very much about communication and if just one team member has lower than average English skills the overall team productivty may suffer.
+Regarding 12: Developing software in a team is very much about communication and if just one team member has lower than average English skills the overall team productivty may suffer.
 
-re 13: It is important that groups don't switch to other languages and hence create walls.
+Regarding 13: It is important that groups don't switch to other languages and hence create walls.
 
-re 14: This is important when some team members are in an office and some remote. Then the meeting should still be a pure video conference where every participants is in front of his own device. Mixed meetings, where some are in a meeting room and some are streamed over a screen in this meeting room create a sub-par experience for all.
+Regarding 14: This is important when some team members are in an office and some remote. Then the meeting should still be a pure video conference where every participants is in front of his own device. Mixed meetings, where some are in a meeting room and some are streamed over a screen in this meeting room create a sub-par experience for all.
 
-re 15: Very important for socializing and should kept short.
+Regarding 15: Very important for socializing and should kept short.

@@ -1,4 +1,4 @@
-# Joel Test Remote—The Joel Test for Remote Software Teams
+# Joel Test Remote
 ## Why Do We Need Another Joel Test?
 Two reasons:
 - The Joel Test is from 2000 and things have changed
@@ -29,14 +29,14 @@ This test assumes that the working language is English.
 16. Does the team do yearly team retreats?
 
 ## Comments
-'Do programmers have quiet working conditions?' and 'Do you have the best tools money can buy?' were removed from the original test because remote professionals can choose their tools and working conditionsthemselves.
+'Do programmers have quiet working conditions?' and 'Do you have the best tools money can buy?' were removed from the original test because remote professionals can choose their tools and working conditions themselves.
 
 re 11: A good Internet connection is crucial. If just one particpant has a mediocre connection the entire team suffers.
 
 re 12: Developing software in a team is very much about communication and if just one team member has lower than average English skills the overall team productivty may suffer.
 
-re 13: It is important that groups don't switch to other languages and hence, create walls.
+re 13: It is important that groups don't switch to other languages and hence create walls.
 
-re 14: This is important when some team members are in an office and some remote. Then the meeting should still be a pure video conference where every participants is in front of his own device. Mixed meetings, where some are in an meeting room and some are streamed over a screen in this meeting room create a sub-par experience for all.
+re 14: This is important when some team members are in an office and some remote. Then the meeting should still be a pure video conference where every participants is in front of his own device. Mixed meetings, where some are in a meeting room and some are streamed over a screen in this meeting room create a sub-par experience for all.
 
 re 15: Very important for socializing and should kept short.

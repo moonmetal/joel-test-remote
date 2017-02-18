@@ -6,6 +6,8 @@ The Joel Test is from 2000. Since then, remote work has been rising and changing
 
 The goal is to create a new test which tells how good and remote-friendly a software team is. This test assumes that the working language is English.
 
+This is a first version which gets updated with your comments/thoughts.
+
 ## Questions
 1. Do you use source control?
 2. Can you make build in one step?

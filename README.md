@@ -21,15 +21,22 @@ This test assumes that the working language is English.
 8. Do you have testers?
 9. Do new candidates write code during their application process?
 10. Do you do hallway usubility testing?
-11. Do all team members have an internet connection with an upload speed of min. 1 Mbit/s and max. 50ms ping and can use all popular video call software?
+11. Do all team members have an Internet connection with an upload speed of min. 1 Mbit/s and max. 50ms ping and can use all popular video call software?
 12. Do all team members have good verbal and written English skills?
 13. Is the entire company communication in English?
 14. Are meetings always done via video calls with max. one user per device?
 15. Are daily group video calls held which are short and do all team member participate?
 16. Does the team do yearly team retreats?
 
+## Comments
+'Do programmers have quiet working conditions?' and 'Do you have the best tools money can buy?' were removed from the original test because remote professionals can choose their tools and working conditionsthemselves.
 
+re 11: A good Internet connection is crucial. If just one particpant has a mediocre connection the entire team suffers.
 
+re 12: Developing software in a team is very much about communication and if just one team member has lower than average English skills the overall team productivty may suffer.
 
+re 13: It is important that groups don't switch to other languages and hence, create walls.
 
+re 14: This is important when some team members are in an office and some remote. Then the meeting should still be a pure video conference where every participants is in front of his own device. Mixed meetings, where some are in an meeting room and some are streamed over a screen in this meeting room create a sub-par experience for all.
 
+re 15: Very important for socializing and should kept short.
